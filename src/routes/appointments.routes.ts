@@ -1,7 +1,7 @@
 import { Router } from "express";
 import CreateAppointmentService from '../services/CreateAppointmentService'
 import { parseISO } from 'date-fns'
-import AppointmentsRepository from "../repositories/AppointmentRepository";
+
 
 
 
